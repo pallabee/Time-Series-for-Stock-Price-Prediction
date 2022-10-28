@@ -1,8 +1,8 @@
 # Time-Series-for-Stock-Price-Prediction
 Demonstrate time series analysis in Python for Financial Data
 ## Dataset
-- Historical data of daily stock prices from http://cafim.sssup.it/~giulio/other/alpha_vantage/index.html
+- Historical data of daily stock prices from Alpha Vantage API http://cafim.sssup.it/~giulio/other/alpha_vantage/index.html
 ## Tasks
-- Data Cleaning
-- Extraction of time series components
+- Data cleanup and analysis
+- Extraction of time series components 
 
