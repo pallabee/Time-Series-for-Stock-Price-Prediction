@@ -6,5 +6,5 @@ Demonstrate time series analysis in Python for Financial Data
 - Data cleanup and analysis
 - Extraction of time series components 
 - Remove non-stationarity in data
-- Analyze ACF, PACF plos
+- Analyze ACF, PACF plots
 
