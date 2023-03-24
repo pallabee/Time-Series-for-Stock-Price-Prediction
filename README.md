@@ -7,5 +7,5 @@ Demonstrate time series analysis in Python for Financial Data
 - Extraction of time series components 
 - Remove non-stationarity in data
 - Analyze ACF, PACF plots
-- Modelling with AR, MA
+- Modelling with MA, AR, ARIMA
 
